@@ -1,0 +1,1174 @@
+[
+  {
+    "result": "Abyss diver",
+    "type": "special",
+    "parents": [
+      "Seasaur",
+      "Hades condor"
+    ]
+  },
+  {
+    "result": "Alabast dragon",
+    "type": "special",
+    "parents": [
+      "Mechan-o'-wyrm",
+      "Drakulard"
+    ]
+  },
+  {
+    "result": "Anchorman",
+    "type": "special",
+    "parents": [
+      "Dingaling",
+      "family:Demon"
+    ]
+  },
+  {
+    "result": "Archdemon",
+    "type": "special",
+    "parents": [
+      "Dessert demon",
+      "Notso macho"
+    ]
+  },
+  {
+    "result": "Atlas",
+    "type": "special",
+    "parents": [
+      "Gigantes",
+      "Moosifer"
+    ]
+  },
+  {
+    "result": "Atlas",
+    "type": "special",
+    "parents": [
+      "Gigantes",
+      "Garuda"
+    ]
+  },
+  {
+    "result": "Atlas",
+    "type": "special",
+    "parents": [
+      "Gigantes",
+      "Boss troll"
+    ]
+  },
+  {
+    "result": "Beetlebully",
+    "type": "special",
+    "parents": [
+      "Beetleboy",
+      "Metal king slime"
+    ]
+  },
+  {
+    "result": "Belial",
+    "type": "special",
+    "parents": [
+      "Archdemon",
+      "Gold golem"
+    ]
+  },
+  {
+    "result": "Belial",
+    "type": "special",
+    "parents": [
+      "Archdemon",
+      "Dessert demon"
+    ]
+  },
+  {
+    "result": "Belial",
+    "type": "special",
+    "parents": [
+      "Archdemon",
+      "Great dragon"
+    ]
+  },
+  {
+    "result": "Belial",
+    "type": "special",
+    "parents": [
+      "Archdemon",
+      "Atlas"
+    ]
+  },
+  {
+    "result": "Beshemoth slime",
+    "type": "special",
+    "parents": [
+      "Behemoth slime",
+      "She-slime"
+    ]
+  },
+  {
+    "result": "Black dragon",
+    "type": "special",
+    "parents": [
+      "Great dragon",
+      "Bone baron"
+    ]
+  },
+  {
+    "result": "Boe",
+    "type": "special",
+    "parents": [
+      "Boh",
+      "family:Nature"
+    ]
+  },
+  {
+    "result": "Boe",
+    "type": "special",
+    "parents": [
+      "Jum",
+      "family:Nature"
+    ]
+  },
+  {
+    "result": "Boe",
+    "type": "special",
+    "parents": [
+      "Mum",
+      "family:Nature"
+    ]
+  },
+  {
+    "result": "Boh",
+    "type": "special",
+    "parents": [
+      "Boe",
+      "family:Beast"
+    ]
+  },
+  {
+    "result": "Boh",
+    "type": "special",
+    "parents": [
+      "Jum",
+      "family:Beast"
+    ]
+  },
+  {
+    "result": "Boh",
+    "type": "special",
+    "parents": [
+      "Mum",
+      "family:Beast"
+    ]
+  },
+  {
+    "result": "Bone baron",
+    "type": "special",
+    "parents": [
+      "Grim rider",
+      "Mohawker"
+    ]
+  },
+  {
+    "result": "Bone baron",
+    "type": "special",
+    "parents": [
+      "Grim rider",
+      "Dark slime knight"
+    ]
+  },
+  {
+    "result": "Boss troll",
+    "type": "special",
+    "parents": [
+      "Gigantes",
+      "Buffalogre"
+    ]
+  },
+  {
+    "result": "Boss troll",
+    "type": "special",
+    "parents": [
+      "Gigantes",
+      "Diemon"
+    ]
+  },
+  {
+    "result": "Boss troll",
+    "type": "special",
+    "parents": [
+      "Buffalogre",
+      "Diemon"
+    ]
+  },
+  {
+    "result": "Brownie",
+    "type": "special",
+    "parents": [
+      "Hammerhood",
+      "family:Nature"
+    ]
+  },
+  {
+    "result": "Cannibox",
+    "type": "special",
+    "parents": [
+      "Goodybag",
+      "Goodybag"
+    ]
+  },
+  {
+    "result": "Darkonium slime",
+    "type": "quad",
+    "parents": [
+      "Beshemoth slime",
+      "Beshemoth slime"
+    ],
+    "grandparents": [
+      "King cureslime",
+      "Metal king slime"
+    ]
+  },
+  {
+    "result": "Demonrider",
+    "type": "special",
+    "parents": [
+      "Skelegon",
+      "Skeleton"
+    ]
+  },
+  {
+    "result": "Demonrider",
+    "type": "special",
+    "parents": [
+      "Skelegon",
+      "Phantom fencer"
+    ]
+  },
+  {
+    "result": "Demonrider",
+    "type": "special",
+    "parents": [
+      "Skelegon",
+      "Slime knight"
+    ]
+  },
+  {
+    "result": "Dessert demon",
+    "type": "special",
+    "parents": [
+      "Imp",
+      "Dancing devil"
+    ]
+  },
+  {
+    "result": "Dhoulmagus",
+    "type": "special",
+    "parents": [
+      "Alabast dragon",
+      "Psaro"
+    ]
+  },
+  {
+    "result": "Dhoulmagus",
+    "type": "special",
+    "parents": [
+      "Alabast dragon",
+      "Estark"
+    ]
+  },
+  {
+    "result": "Dhoulmagus",
+    "type": "special",
+    "parents": [
+      "Dragonlord",
+      "Psaro"
+    ]
+  },
+  {
+    "result": "Dhoulmagus",
+    "type": "special",
+    "parents": [
+      "Dragonlord",
+      "Estark"
+    ]
+  },
+  {
+    "result": "Diemon",
+    "type": "quad",
+    "parents": [
+      "Winky",
+      "Winky"
+    ],
+    "grandparents": [
+      "Winky",
+      "Winky"
+    ]
+  },
+  {
+    "result": "Don Mole",
+    "type": "quad",
+    "parents": [
+      "Mischievous mole",
+      "Mischievous mole"
+    ],
+    "grandparents": [
+      "Night clubber",
+      "Night clubber"
+    ]
+  },
+  {
+    "result": "Dr. Snapped",
+    "type": "quad",
+    "parents": [
+      "Rhapthorne (II)",
+      "Orgodemir"
+    ],
+    "grandparents": [
+      "Captain Crow",
+      "Darkonium slime"
+    ]
+  },
+  {
+    "result": "Drake slime",
+    "type": "special",
+    "parents": [
+      "Slime",
+      "family:Dragon"
+    ]
+  },
+  {
+    "result": "Dragovian lord",
+    "type": "special",
+    "parents": [
+      "Rhapthorne (II)",
+      "Dragonlord"
+    ]
+  },
+  {
+    "result": "Drakulard",
+    "type": "special",
+    "parents": [
+      "Drakularge",
+      "Atlas"
+    ]
+  },
+  {
+    "result": "Drakulard",
+    "type": "special",
+    "parents": [
+      "Drakularge",
+      "Pazuzu"
+    ]
+  },
+  {
+    "result": "Dragonlord",
+    "type": "quad",
+    "parents": [
+      "Alabast dragon",
+      "Gem slime"
+    ],
+    "grandparents": [
+      "Alabast dragon",
+      "Captain Crow"
+    ]
+  },
+  {
+    "result": "Dullahan",
+    "type": "special",
+    "parents": [
+      "Bone baron",
+      "Phantom fencer"
+    ]
+  },
+  {
+    "result": "Dullahan",
+    "type": "special",
+    "parents": [
+      "Bone baron",
+      "Tortured soul"
+    ]
+  },
+  {
+    "result": "Estark",
+    "type": "special",
+    "parents": [
+      "Psaro",
+      "Beetlebully"
+    ]
+  },
+  {
+    "result": "Fallen priest",
+    "type": "special",
+    "parents": [
+      "Wrecktor",
+      "Puppeteer"
+    ]
+  },
+  {
+    "result": "Frostburn",
+    "type": "special",
+    "parents": [
+      "Dancing flame",
+      "Silvapithecus"
+    ]
+  },
+  {
+    "result": "Frou-frou",
+    "type": "quad",
+    "parents": [
+      "Frou-fry",
+      "Frou-fry"
+    ],
+    "grandparents": [
+      "Frou-fry",
+      "Great argon lizard"
+    ]
+  },
+  {
+    "result": "Frou-fry",
+    "type": "special",
+    "parents": [
+      "Argon lizard",
+      "family:Beast"
+    ]
+  },
+  {
+    "result": "Gargoyle",
+    "type": "special",
+    "parents": [
+      "Lesser demon",
+      "family:Beast"
+    ]
+  },
+  {
+    "result": "Garuda",
+    "type": "special",
+    "parents": [
+      "Hades condor",
+      "Jamirus"
+    ]
+  },
+  {
+    "result": "Gem slime",
+    "type": "quad",
+    "parents": [
+      "Grandpa slime",
+      "Grandpa slime"
+    ],
+    "grandparents": [
+      "Gold golem",
+      "Gold golem"
+    ]
+  },
+  {
+    "result": "Gold golem",
+    "type": "special",
+    "parents": [
+      "Golem",
+      "Drakularge"
+    ]
+  },
+  {
+    "result": "Goodybag",
+    "type": "special",
+    "parents": [
+      "Bag o' laughs",
+      "Bag o' laughs"
+    ]
+  },
+  {
+    "result": "Gracos",
+    "type": "special",
+    "parents": [
+      "Merman",
+      "Archdemon"
+    ]
+  },
+  {
+    "result": "Gracos",
+    "type": "special",
+    "parents": [
+      "Octavian sentry",
+      "Archdemon"
+    ]
+  },
+  {
+    "result": "Grandpa slime",
+    "type": "quad",
+    "parents": [
+      "King slime",
+      "Metal king slime"
+    ],
+    "grandparents": [
+      "King bubble slime",
+      "Metal kaiser slime"
+    ]
+  },
+  {
+    "result": "Great argon lizard",
+    "type": "quad",
+    "parents": [
+      "Argon lizard",
+      "Argon lizard"
+    ],
+    "grandparents": [
+      "Argon lizard",
+      "Argon lizard"
+    ]
+  },
+  {
+    "result": "Great sabrecat",
+    "type": "quad",
+    "parents": [
+      "Great sabrecub",
+      "Great sabrecub"
+    ],
+    "grandparents": [
+      "Great sabrecub",
+      "Great sabrecub"
+    ]
+  },
+  {
+    "result": "Grim rider",
+    "type": "special",
+    "parents": [
+      "Demonrider",
+      "Restless armour"
+    ]
+  },
+  {
+    "result": "Heligator",
+    "type": "special",
+    "parents": [
+      "King squid",
+      "Gracos"
+    ]
+  },
+  {
+    "result": "Hunter mech",
+    "type": "special",
+    "parents": [
+      "Metal slime knight",
+      "Lethal armour"
+    ]
+  },
+  {
+    "result": "Khalamari",
+    "type": "quad",
+    "parents": [
+      "Khalamari kid",
+      "Khalamari kid"
+    ],
+    "grandparents": [
+      "King squid",
+      "King squid"
+    ]
+  },
+  {
+    "result": "Killing machine",
+    "type": "special",
+    "parents": [
+      "Hunter mech",
+      "Mechan-o'-wyrm"
+    ]
+  },
+  {
+    "result": "Killing machine",
+    "type": "special",
+    "parents": [
+      "Hunter mech",
+      "Phantom swordsman"
+    ]
+  },
+  {
+    "result": "King cureslime",
+    "type": "special",
+    "parents": [
+      "King slime",
+      "King slime"
+    ]
+  },
+  {
+    "result": "King slime",
+    "type": "quad",
+    "parents": [
+      "Slime",
+      "Slime"
+    ],
+    "grandparents": [
+      "Slime",
+      "Slime"
+    ]
+  },
+  {
+    "result": "King slime",
+    "type": "special",
+    "parents": [
+      "Behemoth slime",
+      "Behemoth slime"
+    ]
+  },
+  {
+    "result": "King squid",
+    "type": "special",
+    "parents": [
+      "Khalamari kid",
+      "Night clubber"
+    ]
+  },
+  {
+    "result": "King squid",
+    "type": "special",
+    "parents": [
+      "Yabby",
+      "Gracos"
+    ]
+  },
+  {
+    "result": "Liquid metal slime",
+    "type": "special",
+    "parents": [
+      "Metal slime",
+      "Metal slime"
+    ]
+  },
+  {
+    "result": "Malroth",
+    "type": "special",
+    "parents": [
+      "Demon-at-arms",
+      "Living statue"
+    ]
+  },
+  {
+    "result": "Malroth",
+    "type": "special",
+    "parents": [
+      "Demon-at-arms",
+      "Buffalogre"
+    ]
+  },
+  {
+    "result": "Mechan-o'-wyrm",
+    "type": "special",
+    "parents": [
+      "Metal dragon",
+      "Great dragon"
+    ]
+  },
+  {
+    "result": "Metal dragon",
+    "type": "special",
+    "parents": [
+      "Metal slime knight",
+      "Red dragon"
+    ]
+  },
+  {
+    "result": "Metal dragon",
+    "type": "special",
+    "parents": [
+      "Hunter mech",
+      "Red dragon"
+    ]
+  },
+  {
+    "result": "Metal kaiser slime",
+    "type": "quad",
+    "parents": [
+      "Metal slime",
+      "Metal slime"
+    ],
+    "grandparents": [
+      "Liquid metal slime",
+      "Metal slime knight"
+    ]
+  },
+  {
+    "result": "Metal kaiser slime",
+    "type": "quad",
+    "parents": [
+      "King slime",
+      "Metal king slime"
+    ],
+    "grandparents": [
+      "Liquid metal slime",
+      "Metal slime knight"
+    ]
+  },
+  {
+    "result": "Metal king slime",
+    "type": "quad",
+    "parents": [
+      "Liquid metal slime",
+      "Liquid metal slime"
+    ],
+    "grandparents": [
+      "Liquid metal slime",
+      "Liquid metal slime"
+    ]
+  },
+  {
+    "result": "Mohawker",
+    "type": "special",
+    "parents": [
+      "Buffalogre",
+      "Wild slime"
+    ]
+  },
+  {
+    "result": "Mohawker",
+    "type": "special",
+    "parents": [
+      "Buffalogre",
+      "Great sabrecat"
+    ]
+  },
+  {
+    "result": "Mohawker",
+    "type": "special",
+    "parents": [
+      "Buffalogre",
+      "Bone baron"
+    ]
+  },
+  {
+    "result": "Moosifer",
+    "type": "special",
+    "parents": [
+      "Pan piper",
+      "Buffalogre"
+    ]
+  },
+  {
+    "result": "Moosifer",
+    "type": "special",
+    "parents": [
+      "Satyr",
+      "Buffalogre"
+    ]
+  },
+  {
+    "result": "Mortamor",
+    "type": "special",
+    "parents": [
+      "Nimzo",
+      "Estark"
+    ]
+  },
+  {
+    "result": "Mum",
+    "type": "special",
+    "parents": [
+      "Boe",
+      "family:Material"
+    ]
+  },
+  {
+    "result": "Mum",
+    "type": "special",
+    "parents": [
+      "Boh",
+      "family:Material"
+    ]
+  },
+  {
+    "result": "Mum",
+    "type": "special",
+    "parents": [
+      "Jum",
+      "family:Material"
+    ]
+  },
+  {
+    "result": "Mumboh-jumboe",
+    "type": "quad",
+    "parents": [
+      "Mum",
+      "Boh"
+    ],
+    "grandparents": [
+      "Jum",
+      "Boe"
+    ]
+  },
+  {
+    "result": "Nardragon",
+    "type": "special",
+    "parents": [
+      "Komodo",
+      "family:Material"
+    ]
+  },
+  {
+    "result": "Night clubber",
+    "type": "special",
+    "parents": [
+      "Boss troll",
+      "Frou-frou"
+    ]
+  },
+  {
+    "result": "Night clubber",
+    "type": "special",
+    "parents": [
+      "Boss troll",
+      "Pazuzu"
+    ]
+  },
+  {
+    "result": "Night clubber",
+    "type": "special",
+    "parents": [
+      "Boss troll",
+      "Drakularge"
+    ]
+  },
+  {
+    "result": "Nimzo",
+    "type": "special",
+    "parents": [
+      "Drakulard",
+      "Malroth"
+    ]
+  },
+  {
+    "result": "Orgodemir",
+    "type": "special",
+    "parents": [
+      "Alabast dragon",
+      "Mortamor"
+    ]
+  },
+  {
+    "result": "Orgodemir",
+    "type": "special",
+    "parents": [
+      "Dragonlord",
+      "Mortamor"
+    ]
+  },
+  {
+    "result": "Pan piper",
+    "type": "special",
+    "parents": [
+      "Satyr",
+      "Dingaling"
+    ]
+  },
+  {
+    "result": "Pazuzu",
+    "type": "special",
+    "parents": [
+      "Silvapithecus",
+      "Jamirus"
+    ]
+  },
+  {
+    "result": "Pazuzu",
+    "type": "special",
+    "parents": [
+      "Silvapithecus",
+      "Gigantes"
+    ]
+  },
+  {
+    "result": "Pazuzu",
+    "type": "special",
+    "parents": [
+      "Silvapithecus",
+      "Golem"
+    ]
+  },
+  {
+    "result": "Pazuzu",
+    "type": "special",
+    "parents": [
+      "Silvapithecus",
+      "King squid"
+    ]
+  },
+  {
+    "result": "Phantom swordsman",
+    "type": "special",
+    "parents": [
+      "Skeleton soldier",
+      "Skeleton soldier"
+    ]
+  },
+  {
+    "result": "Psaro",
+    "type": "special",
+    "parents": [
+      "Roseguardin",
+      "Ruin"
+    ]
+  },
+  {
+    "result": "Red dragon",
+    "type": "special",
+    "parents": [
+      "Green dragon",
+      "family:Beast"
+    ]
+  },
+  {
+    "result": "Rhapthorne",
+    "type": "special",
+    "parents": [
+      "Dhoulmagus",
+      "Nimzo"
+    ]
+  },
+  {
+    "result": "Rhapthorne (II)",
+    "type": "special",
+    "parents": [
+      "Rhapthorne",
+      "Zoma"
+    ]
+  },
+  {
+    "result": "Rhapthorne (II)",
+    "type": "special",
+    "parents": [
+      "Rhapthorne",
+      "Orgodemir"
+    ]
+  },
+  {
+    "result": "Riptide",
+    "type": "special",
+    "parents": [
+      "Jumping jackal",
+      "Heligator"
+    ]
+  },
+  {
+    "result": "Roseguardin",
+    "type": "special",
+    "parents": [
+      "Lethal armour",
+      "Bone baron"
+    ]
+  },
+  {
+    "result": "Roseguardin",
+    "type": "special",
+    "parents": [
+      "Lethal armour",
+      "Riptide"
+    ]
+  },
+  {
+    "result": "Ruin",
+    "type": "special",
+    "parents": [
+      "Gold golem",
+      "Mumboh-jumboe"
+    ]
+  },
+  {
+    "result": "Ruin",
+    "type": "special",
+    "parents": [
+      "Living statue",
+      "Mumboh-jumboe"
+    ]
+  },
+  {
+    "result": "Scorpion",
+    "type": "special",
+    "parents": [
+      "Crabid",
+      "Chimaera"
+    ]
+  },
+  {
+    "result": "Scissor beatle",
+    "type": "special",
+    "parents": [
+      "Yabby",
+      "Scorpion"
+    ]
+  },
+  {
+    "result": "Sea dragon",
+    "type": "special",
+    "parents": [
+      "Eveel",
+      "Seasaur"
+    ]
+  },
+  {
+    "result": "Skelegon",
+    "type": "special",
+    "parents": [
+      "Green dragon",
+      "family:Undead"
+    ]
+  },
+  {
+    "result": "Skelegon",
+    "type": "special",
+    "parents": [
+      "Hacksaurus",
+      "family:Undead"
+    ]
+  },
+  {
+    "result": "Snapdragon",
+    "type": "special",
+    "parents": [
+      "Dragonthorn",
+      "family:Undead"
+    ]
+  },
+  {
+    "result": "Trap box",
+    "type": "quad",
+    "parents": [
+      "Mimic",
+      "Mimic"
+    ],
+    "grandparents": [
+      "Cannibox",
+      "Metal kaiser slime"
+    ]
+  },
+  {
+    "result": "Wailin' weed",
+    "type": "special",
+    "parents": [
+      "King kelp",
+      "Phantom swordsman"
+    ]
+  },
+  {
+    "result": "Wight king",
+    "type": "special",
+    "parents": [
+      "Tortured soul",
+      "King slime"
+    ]
+  },
+  {
+    "result": "Wight king",
+    "type": "special",
+    "parents": [
+      "Tortured soul",
+      "King bubble slime"
+    ]
+  },
+  {
+    "result": "Zoma",
+    "type": "special",
+    "parents": [
+      "Malroth",
+      "Wight king"
+    ]
+  },
+  {
+    "result": "Zoma",
+    "type": "special",
+    "parents": [
+      "Malroth",
+      "Dullahan"
+    ]
+  },
+  {
+    "result": "Zoma",
+    "type": "special",
+    "parents": [
+      "Malroth",
+      "Bone baron"
+    ]
+  },
+  {
+    "result": "Wulfspade",
+    "type": "special",
+    "parents": [
+      "Incarnus",
+      "family:Nature"
+    ],
+    "note": "Rank B or less"
+  },
+  {
+    "result": "Hawkhart",
+    "type": "special",
+    "parents": [
+      "Incarnus",
+      "family:Demon"
+    ],
+    "note": "Rank B or less"
+  },
+  {
+    "result": "Cluboon",
+    "type": "special",
+    "parents": [
+      "Incarnus",
+      "family:Material"
+    ],
+    "note": "Rank B or less"
+  },
+  {
+    "result": "Diamagon",
+    "type": "special",
+    "parents": [
+      "Incarnus",
+      "family:Beast"
+    ],
+    "note": "Rank B or less"
+  },
+  {
+    "result": "Wulfspade ace",
+    "type": "special",
+    "parents": [
+      "Incarnus",
+      "family:Nature"
+    ],
+    "note": "Rank A or better"
+  },
+  {
+    "result": "Hawkhart ace",
+    "type": "special",
+    "parents": [
+      "Incarnus",
+      "family:Demon"
+    ],
+    "note": "Rank A or better"
+  },
+  {
+    "result": "Cluboon ace",
+    "type": "special",
+    "parents": [
+      "Incarnus",
+      "family:Material"
+    ],
+    "note": "Rank A or better"
+  },
+  {
+    "result": "Diamagon ace",
+    "type": "special",
+    "parents": [
+      "Incarnus",
+      "family:Beast"
+    ],
+    "note": "Rank A or better"
+  },
+  {
+    "result": "Ace of Spades",
+    "type": "special",
+    "parents": [
+      "Wulfspade ace",
+      "Leopold"
+    ]
+  },
+  {
+    "result": "Wildcard",
+    "type": "special",
+    "parents": [
+      "Wulfspade ace",
+      "Empyrea"
+    ]
+  }
+]

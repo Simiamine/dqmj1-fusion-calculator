@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "name": "Slime",
+    "nameFr": "Gluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Slime.png"
+  },
+  {
+    "id": 2,
+    "name": "Komodo",
+    "nameFr": "Komodor",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Komodo.png"
+  },
+  {
+    "id": 3,
+    "name": "Capsichum",
+    "nameFr": "Piperaduo",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Capsichum.png"
+  },
+  {
+    "id": 4,
+    "name": "Platypunk",
+    "nameFr": "Ornithox",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Platypunk.png"
+  },
+  {
+    "id": 5,
+    "name": "Bag o' laughs",
+    "nameFr": "Maransac",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Bag_o%27_laughs.png"
+  },
+  {
+    "id": 6,
+    "name": "Dracky",
+    "nameFr": "Vampivol",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dracky.png"
+  },
+  {
+    "id": 7,
+    "name": "Ghost",
+    "nameFr": "Fantôme",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Ghost.png"
+  },
+  {
+    "id": 8,
+    "name": "Bubble slime",
+    "nameFr": "Gluanbulle",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Bubble_slime.png"
+  },
+  {
+    "id": 9,
+    "name": "Frou-fry",
+    "nameFr": "Fri-fri",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Frou-fry.png"
+  },
+  {
+    "id": 10,
+    "name": "Wild boarfish",
+    "nameFr": "Sanglimer",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wild_boarfish.png"
+  },
+  {
+    "id": 11,
+    "name": "Mischievous mole",
+    "nameFr": "Pataupe",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mischievous_mole.png"
+  },
+  {
+    "id": 12,
+    "name": "Shadow",
+    "nameFr": "Ombre",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Shadow.png"
+  },
+  {
+    "id": 13,
+    "name": "Lips",
+    "nameFr": "Bisebave",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Lips.png"
+  },
+  {
+    "id": 14,
+    "name": "Firespirit",
+    "nameFr": "Feu follet",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Firespirit.png"
+  },
+  {
+    "id": 15,
+    "name": "Shell slime",
+    "nameFr": "Gluanbulot",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Shell_slime.png"
+  },
+  {
+    "id": 16,
+    "name": "Dragonthorn",
+    "nameFr": "Dragronce",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dragonthorn.png"
+  },
+  {
+    "id": 17,
+    "name": "Scorpion",
+    "nameFr": "Scorpion",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "F",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Scorpion.png"
+  },
+  {
+    "id": 18,
+    "name": "Crabid",
+    "nameFr": "Crabarbare",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Crabid.png"
+  },
+  {
+    "id": 19,
+    "name": "Satyr",
+    "nameFr": "Faune",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Satyr.png"
+  },
+  {
+    "id": 20,
+    "name": "Dancing flame",
+    "nameFr": "Brûleflamme",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dancing_flame.png"
+  },
+  {
+    "id": 21,
+    "name": "Winky",
+    "nameFr": "Clindœil",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Winky.png"
+  },
+  {
+    "id": 22,
+    "name": "Stump chump",
+    "nameFr": "Souche louche",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Stump_chump.png"
+  },
+  {
+    "id": 23,
+    "name": "Healslime",
+    "nameFr": "Médigluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Healslime.png"
+  },
+  {
+    "id": 24,
+    "name": "Argon lizard",
+    "nameFr": "Lézard argon",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Argon_lizard.png"
+  },
+  {
+    "id": 25,
+    "name": "Chimaera",
+    "nameFr": "Chimère",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Chimaera.png"
+  },
+  {
+    "id": 26,
+    "name": "Frostburn",
+    "nameFr": "Brûlegel",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "F",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Frostburn.png"
+  },
+  {
+    "id": 27,
+    "name": "Hammerhood",
+    "nameFr": "Marteleur",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Hammerhood.png"
+  },
+  {
+    "id": 28,
+    "name": "Spitnik",
+    "nameFr": "Spitnik",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Spitnik.png"
+  },
+  {
+    "id": 29,
+    "name": "See urchin",
+    "nameFr": "Biglœil",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/See_urchin.png"
+  },
+  {
+    "id": 30,
+    "name": "Funghoul",
+    "nameFr": "Champigoule",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Funghoul.png"
+  },
+  {
+    "id": 31,
+    "name": "She-slime",
+    "nameFr": "Gluante",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/She-slime.png"
+  },
+  {
+    "id": 32,
+    "name": "Nardragon",
+    "nameFr": "Dracorne",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "F",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Nardragon.png"
+  },
+  {
+    "id": 33,
+    "name": "Spiked hare",
+    "nameFr": "Lièvrecorne",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "F",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Spiked_hare.png"
+  },
+  {
+    "id": 34,
+    "name": "Fencing fox",
+    "nameFr": "Mousquetueur",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Fencing_fox.png"
+  },
+  {
+    "id": 35,
+    "name": "Goodybag",
+    "nameFr": "Sacatrésor",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "E",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Goodybag.png"
+  },
+  {
+    "id": 36,
+    "name": "Imp",
+    "nameFr": "Diablotin",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Imp.png"
+  },
+  {
+    "id": 37,
+    "name": "Muddy hand",
+    "nameFr": "Main de boue",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Muddy_hand.png"
+  },
+  {
+    "id": 38,
+    "name": "Drake slime",
+    "nameFr": "Gluancornu",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "E",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Drake_slime.png"
+  },
+  {
+    "id": 39,
+    "name": "Snapdragon",
+    "nameFr": "Épironce",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "E",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Snapdragon.png"
+  },
+  {
+    "id": 40,
+    "name": "Khalamari kid",
+    "nameFr": "Khalamarmot",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Khalamari_kid.png"
+  },
+  {
+    "id": 41,
+    "name": "Chainine",
+    "nameFr": "Canidémon",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Chainine.png"
+  },
+  {
+    "id": 42,
+    "name": "King kelp",
+    "nameFr": "Royalgue",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/King_kelp.png"
+  },
+  {
+    "id": 43,
+    "name": "Lump wizard",
+    "nameFr": "Sorcimol",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Lump_wizard.png"
+  },
+  {
+    "id": 44,
+    "name": "Demonrider",
+    "nameFr": "Cavale-démon",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "E",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Demonrider.png"
+  },
+  {
+    "id": 45,
+    "name": "Mummy boy",
+    "nameFr": "Momignon",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mummy_boy.png"
+  },
+  {
+    "id": 46,
+    "name": "Snail slime",
+    "nameFr": "Escargluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Snail_slime.png"
+  },
+  {
+    "id": 47,
+    "name": "Jargon",
+    "nameFr": "Saint-berneur",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Jargon.png"
+  },
+  {
+    "id": 48,
+    "name": "Jailcat",
+    "nameFr": "Chagriffeur",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Jailcat.png"
+  },
+  {
+    "id": 49,
+    "name": "Orc",
+    "nameFr": "Orque",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Orc.png"
+  },
+  {
+    "id": 50,
+    "name": "Wax murderer",
+    "nameFr": "Tristecire",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wax_murderer.png"
+  },
+  {
+    "id": 51,
+    "name": "Frogface",
+    "nameFr": "Face de crapaud",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Frogface.png"
+  },
+  {
+    "id": 52,
+    "name": "Skipper",
+    "nameFr": "Bottœil",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Skipper.png"
+  },
+  {
+    "id": 53,
+    "name": "Wild slime",
+    "nameFr": "Gluant de crin",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wild_slime.png"
+  },
+  {
+    "id": 54,
+    "name": "Green dragon",
+    "nameFr": "Dragon vert",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Green_dragon.png"
+  },
+  {
+    "id": 55,
+    "name": "Great sabrecub",
+    "nameFr": "Smilodon de lait",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "E",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Great_sabrecub.png"
+  },
+  {
+    "id": 56,
+    "name": "Cannibox",
+    "nameFr": "Canniboîte",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "E",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Cannibox.png"
+  },
+  {
+    "id": 57,
+    "name": "Pan piper",
+    "nameFr": "Bélicorne",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "E",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Pan_piper.png"
+  },
+  {
+    "id": 58,
+    "name": "Skelegon",
+    "nameFr": "Dragos",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "E",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Skelegon.png"
+  },
+  {
+    "id": 59,
+    "name": "Jumping jackal",
+    "nameFr": "Carnigore",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Jumping_jackal.png"
+  },
+  {
+    "id": 60,
+    "name": "Rockbomb",
+    "nameFr": "Rochexplosif",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Rockbomb.png"
+  },
+  {
+    "id": 61,
+    "name": "Dessert demon",
+    "nameFr": "Démon du dessert",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "D",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dessert_demon.png"
+  },
+  {
+    "id": 62,
+    "name": "Dancing devil",
+    "nameFr": "Diable dansant",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dancing_devil.png"
+  },
+  {
+    "id": 63,
+    "name": "Phantom fencer",
+    "nameFr": "Escrimeur fantôme",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Phantom_fencer.png"
+  },
+  {
+    "id": 64,
+    "name": "Anchorman",
+    "nameFr": "Mutancre",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "D",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Anchorman.png"
+  },
+  {
+    "id": 65,
+    "name": "Slime knight",
+    "nameFr": "Monte-gluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Slime_knight.png"
+  },
+  {
+    "id": 66,
+    "name": "Dragurn",
+    "nameFr": "Dragonflé",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dragurn.png"
+  },
+  {
+    "id": 67,
+    "name": "Metal slime",
+    "nameFr": "Gluant de métal",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Metal_slime.png"
+  },
+  {
+    "id": 68,
+    "name": "Hell hornet",
+    "nameFr": "Frelon de l'enfer",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Hell_hornet.png"
+  },
+  {
+    "id": 69,
+    "name": "Night emperor",
+    "nameFr": "Empereur nocturne",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Night_emperor.png"
+  },
+  {
+    "id": 70,
+    "name": "Gold golem",
+    "nameFr": "Golem d'or",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "D",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Gold_golem.png"
+  },
+  {
+    "id": 71,
+    "name": "Headhunter",
+    "nameFr": "Chasseur de têtes",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Headhunter.png"
+  },
+  {
+    "id": 72,
+    "name": "Flyguy",
+    "nameFr": "Mouchomme",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Flyguy.png"
+  },
+  {
+    "id": 73,
+    "name": "Metal slime knight",
+    "nameFr": "Monte-gluant de métal",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Metal_slime_knight.png"
+  },
+  {
+    "id": 74,
+    "name": "Seasaur",
+    "nameFr": "Aquasaure",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Seasaur.png"
+  },
+  {
+    "id": 75,
+    "name": "Eveel",
+    "nameFr": "Malicongre",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Eveel.png"
+  },
+  {
+    "id": 76,
+    "name": "Weartiger",
+    "nameFr": "Tigriff",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Weartiger.png"
+  },
+  {
+    "id": 77,
+    "name": "Brownie",
+    "nameFr": "Martebrun",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "D",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Brownie.png"
+  },
+  {
+    "id": 78,
+    "name": "Mecha-mynah",
+    "nameFr": "Rouage-gorge",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mecha-mynah.png"
+  },
+  {
+    "id": 79,
+    "name": "Lesser demon",
+    "nameFr": "Démon inférieur",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Lesser_demon.png"
+  },
+  {
+    "id": 80,
+    "name": "Skeleton",
+    "nameFr": "Squelette",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "D",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Skeleton.png"
+  },
+  {
+    "id": 81,
+    "name": "Angel slime",
+    "nameFr": "Gluangélique",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Angel_slime.png"
+  },
+  {
+    "id": 82,
+    "name": "Behemoth slime",
+    "nameFr": "Gigluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Behemoth_slime.png"
+  },
+  {
+    "id": 83,
+    "name": "Red dragon",
+    "nameFr": "Dragon rouge",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Red_dragon.png"
+  },
+  {
+    "id": 84,
+    "name": "Beshemoth slime",
+    "nameFr": "Gigluante",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Beshemoth_slime.png"
+  },
+  {
+    "id": 85,
+    "name": "Bullfinch",
+    "nameFr": "Taurapace",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Bullfinch.png"
+  },
+  {
+    "id": 86,
+    "name": "Bodkin archer",
+    "nameFr": "Archer vert",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Bodkin_archer.png"
+  },
+  {
+    "id": 87,
+    "name": "Mud mannequin",
+    "nameFr": "Pantin de boue",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mud_mannequin.png"
+  },
+  {
+    "id": 88,
+    "name": "Gryphon",
+    "nameFr": "Griffon",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Gryphon.png"
+  },
+  {
+    "id": 89,
+    "name": "Walking corpse",
+    "nameFr": "Mort-vivant",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Walking_corpse.png"
+  },
+  {
+    "id": 90,
+    "name": "Dragon slime",
+    "nameFr": "Gluandragon",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dragon_slime.png"
+  },
+  {
+    "id": 91,
+    "name": "Hacksaurus",
+    "nameFr": "Hachosaure",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Hacksaurus.png"
+  },
+  {
+    "id": 92,
+    "name": "Hades condor",
+    "nameFr": "Condor infernal",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Hades_condor.png"
+  },
+  {
+    "id": 93,
+    "name": "Gargoyle",
+    "nameFr": "Gargouille",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Gargoyle.png"
+  },
+  {
+    "id": 94,
+    "name": "Merman",
+    "nameFr": "Sirénien",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Merman.png"
+  },
+  {
+    "id": 95,
+    "name": "Great dracky",
+    "nameFr": "Grand vampivol",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Great_dracky.png"
+  },
+  {
+    "id": 96,
+    "name": "Great sabrecat",
+    "nameFr": "Smilodon",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Great_sabrecat.png"
+  },
+  {
+    "id": 97,
+    "name": "Dingaling",
+    "nameFr": "Dingo-dong",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dingaling.png"
+  },
+  {
+    "id": 98,
+    "name": "Octavian sentry",
+    "nameFr": "Garde octavien",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Octavian_sentry.png"
+  },
+  {
+    "id": 99,
+    "name": "King slime",
+    "nameFr": "Roi gluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/King_slime.png"
+  },
+  {
+    "id": 100,
+    "name": "Restless armour",
+    "nameFr": "Armure errante",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Restless_armour.png"
+  },
+  {
+    "id": 101,
+    "name": "Sea dragon",
+    "nameFr": "Dragon marin",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Sea_dragon.png"
+  },
+  {
+    "id": 102,
+    "name": "Hellhound",
+    "nameFr": "Chien de l'enfer",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Hellhound.png"
+  },
+  {
+    "id": 103,
+    "name": "Diemon",
+    "nameFr": "Monstromasque",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Diemon.png"
+  },
+  {
+    "id": 104,
+    "name": "Cureslime",
+    "nameFr": "Guérigluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Cureslime.png"
+  },
+  {
+    "id": 105,
+    "name": "Hunter mech",
+    "nameFr": "Mécachasseur",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Hunter_mech.png"
+  },
+  {
+    "id": 106,
+    "name": "Tyrantosaurus",
+    "nameFr": "Tyrantosaure",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Tyrantosaurus.png"
+  },
+  {
+    "id": 107,
+    "name": "Liquid metal slime",
+    "nameFr": "Gluant de mercure",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Liquid_metal_slime.png"
+  },
+  {
+    "id": 108,
+    "name": "Treeface",
+    "nameFr": "Tronc-bine",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Treeface.png"
+  },
+  {
+    "id": 109,
+    "name": "Notso macho",
+    "nameFr": "Meno macho",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Notso_macho.png"
+  },
+  {
+    "id": 110,
+    "name": "Puppeteer",
+    "nameFr": "Marionnettiste",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Puppeteer.png"
+  },
+  {
+    "id": 111,
+    "name": "Scissor beatle",
+    "nameFr": "Scarapince",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Scissor_beatle.png"
+  },
+  {
+    "id": 112,
+    "name": "Metal dragon",
+    "nameFr": "Dragon de métal",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "C",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Metal_dragon.png"
+  },
+  {
+    "id": 113,
+    "name": "Wrecktor",
+    "nameFr": "Cyclomage",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "C",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wrecktor.png"
+  },
+  {
+    "id": 114,
+    "name": "Great argon lizard",
+    "nameFr": "Grand lézard argon",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Great_argon_lizard.png"
+  },
+  {
+    "id": 115,
+    "name": "Phantom swordsman",
+    "nameFr": "Épéiste fantôme",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Phantom_swordsman.png"
+  },
+  {
+    "id": 116,
+    "name": "Skeleton soldier",
+    "nameFr": "Soldat squelette",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Skeleton_soldier.png"
+  },
+  {
+    "id": 117,
+    "name": "Dark slime",
+    "nameFr": "Vampigluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dark_slime.png"
+  },
+  {
+    "id": 118,
+    "name": "Abyss diver",
+    "nameFr": "Abyssaure",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Abyss_diver.png"
+  },
+  {
+    "id": 119,
+    "name": "Beetleboy",
+    "nameFr": "Scarablindé",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Beetleboy.png"
+  },
+  {
+    "id": 120,
+    "name": "Grim rider",
+    "nameFr": "Cavalier fantôme",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Grim_rider.png"
+  },
+  {
+    "id": 121,
+    "name": "Cockateer",
+    "nameFr": "Cocoricoq",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Cockateer.png"
+  },
+  {
+    "id": 122,
+    "name": "Jum",
+    "nameFr": "Gon",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Jum.png"
+  },
+  {
+    "id": 123,
+    "name": "Lethal armour",
+    "nameFr": "Armure fatale",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Lethal_armour.png"
+  },
+  {
+    "id": 124,
+    "name": "Soulspawn",
+    "nameFr": "Grouillâme",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Soulspawn.png"
+  },
+  {
+    "id": 125,
+    "name": "Dark slime knight",
+    "nameFr": "Monte-vampigluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dark_slime_knight.png"
+  },
+  {
+    "id": 126,
+    "name": "Fallen priest",
+    "nameFr": "Prêtre damné",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Fallen_priest.png"
+  },
+  {
+    "id": 127,
+    "name": "Megalodon",
+    "nameFr": "Mégalodon",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Megalodon.png"
+  },
+  {
+    "id": 128,
+    "name": "Giant moth",
+    "nameFr": "Phalène géante",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Giant_moth.png"
+  },
+  {
+    "id": 129,
+    "name": "Silvapithecus",
+    "nameFr": "Silvapithèque",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Silvapithecus.png"
+  },
+  {
+    "id": 130,
+    "name": "Frou-frou",
+    "nameFr": "Frou-frou",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Frou-frou.png"
+  },
+  {
+    "id": 131,
+    "name": "Mimic",
+    "nameFr": "Imitapeur",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mimic.png"
+  },
+  {
+    "id": 132,
+    "name": "Archdemon",
+    "nameFr": "Archidémon",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Archdemon.png"
+  },
+  {
+    "id": 133,
+    "name": "Stark raven",
+    "nameFr": "Corbarbac",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Stark_raven.png"
+  },
+  {
+    "id": 134,
+    "name": "King cureslime",
+    "nameFr": "Roi guérigluant",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/King_cureslime.png"
+  },
+  {
+    "id": 135,
+    "name": "Drakularge",
+    "nameFr": "Dracularge",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Drakularge.png"
+  },
+  {
+    "id": 136,
+    "name": "Gorerilla",
+    "nameFr": "Gorerille",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "B",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Gorerilla.png"
+  },
+  {
+    "id": 137,
+    "name": "Boss troll",
+    "nameFr": "Chef troll",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "B",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Boss_troll.png"
+  },
+  {
+    "id": 138,
+    "name": "Gigantes",
+    "nameFr": "Géant",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Gigantes.png"
+  },
+  {
+    "id": 139,
+    "name": "Golem",
+    "nameFr": "Golem",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Golem.png"
+  },
+  {
+    "id": 140,
+    "name": "Jamirus",
+    "nameFr": "Jamirus",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Jamirus.png"
+  },
+  {
+    "id": 141,
+    "name": "Wailin' weed",
+    "nameFr": "Hurlherbe",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wailin%27_weed.png"
+  },
+  {
+    "id": 142,
+    "name": "Heligator",
+    "nameFr": "Aligatueur",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Heligator.png"
+  },
+  {
+    "id": 143,
+    "name": "Moosifer",
+    "nameFr": "Belzébik",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Moosifer.png"
+  },
+  {
+    "id": 144,
+    "name": "King bubble slime",
+    "nameFr": "Roi gluanbulle",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/King_bubble_slime.png"
+  },
+  {
+    "id": 145,
+    "name": "Mohawker",
+    "nameFr": "Sangliogre",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mohawker.png"
+  },
+  {
+    "id": 146,
+    "name": "Great dragon",
+    "nameFr": "Grand dragon",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Great_dragon.png"
+  },
+  {
+    "id": 147,
+    "name": "Yabby",
+    "nameFr": "Écrevicieux",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Yabby.png"
+  },
+  {
+    "id": 148,
+    "name": "Buffalogre",
+    "nameFr": "Encorneur",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Buffalogre.png"
+  },
+  {
+    "id": 149,
+    "name": "Gracos",
+    "nameFr": "Gracos",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Gracos.png"
+  },
+  {
+    "id": 150,
+    "name": "Living statue",
+    "nameFr": "Statue vivante",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Living_statue.png"
+  },
+  {
+    "id": 151,
+    "name": "Metal kaiser slime",
+    "nameFr": "Gluanpereur de métal",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Metal_kaiser_slime.png"
+  },
+  {
+    "id": 152,
+    "name": "Riptide",
+    "nameFr": "Rase-marée",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Riptide.png"
+  },
+  {
+    "id": 153,
+    "name": "Demon-at-arms",
+    "nameFr": "Shivattak",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Demon-at-arms.png"
+  },
+  {
+    "id": 154,
+    "name": "Tortured soul",
+    "nameFr": "Âme en peine",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "A",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Tortured_soul.png"
+  },
+  {
+    "id": 155,
+    "name": "Boe",
+    "nameFr": "Dis",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Boe.png"
+  },
+  {
+    "id": 156,
+    "name": "Mum",
+    "nameFr": "Sal",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mum.png"
+  },
+  {
+    "id": 157,
+    "name": "Roseguardin",
+    "nameFr": "Rosegarde",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Roseguardin.png"
+  },
+  {
+    "id": 158,
+    "name": "Garuda",
+    "nameFr": "Faucondor",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Garuda.png"
+  },
+  {
+    "id": 159,
+    "name": "Boh",
+    "nameFr": "Mi",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Boh.png"
+  },
+  {
+    "id": 160,
+    "name": "Belial",
+    "nameFr": "Bélial",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Belial.png"
+  },
+  {
+    "id": 161,
+    "name": "Bone baron",
+    "nameFr": "Baron d'os",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Bone_baron.png"
+  },
+  {
+    "id": 162,
+    "name": "Mechan-o'-wyrm",
+    "nameFr": "Mécadragon",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mechan-o%27-wyrm.png"
+  },
+  {
+    "id": 163,
+    "name": "Pazuzu",
+    "nameFr": "Pazuzu",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "A",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Pazuzu.png"
+  },
+  {
+    "id": 164,
+    "name": "Metal king slime",
+    "nameFr": "Roi gluant de métal",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Metal_king_slime.png"
+  },
+  {
+    "id": 165,
+    "name": "Black dragon",
+    "nameFr": "Dragon noir",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Black_dragon.png"
+  },
+  {
+    "id": 166,
+    "name": "Beetlebully",
+    "nameFr": "Scarabrute",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Beetlebully.png"
+  },
+  {
+    "id": 167,
+    "name": "Atlas",
+    "nameFr": "Atlas",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Atlas.png"
+  },
+  {
+    "id": 168,
+    "name": "Trap box",
+    "nameFr": "Boîte à pièges",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Trap_box.png"
+  },
+  {
+    "id": 169,
+    "name": "Robbin' hood",
+    "nameFr": "Chaperon vert",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "S",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Robbin%27_hood.png"
+  },
+  {
+    "id": 170,
+    "name": "Dullahan",
+    "nameFr": "Décapitête",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dullahan.png"
+  },
+  {
+    "id": 171,
+    "name": "Drakulard",
+    "nameFr": "Draculard",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Drakulard.png"
+  },
+  {
+    "id": 172,
+    "name": "King squid",
+    "nameFr": "Calmaroi",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/King_squid.png"
+  },
+  {
+    "id": 173,
+    "name": "Don Mole",
+    "nameFr": "Mister taupe",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Don_Mole.png"
+  },
+  {
+    "id": 174,
+    "name": "Killing machine",
+    "nameFr": "Machine à tuer",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Killing_machine.png"
+  },
+  {
+    "id": 175,
+    "name": "Night clubber",
+    "nameFr": "Bastonnier",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Night_clubber.png"
+  },
+  {
+    "id": 176,
+    "name": "Wight king",
+    "nameFr": "Roi maudit",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wight_king.png"
+  },
+  {
+    "id": 177,
+    "name": "Darkonium slime",
+    "nameFr": "Gluant ténérium",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Darkonium_slime.png"
+  },
+  {
+    "id": 178,
+    "name": "Alabast dragon",
+    "nameFr": "Dragon d'albâtre",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Alabast_dragon.png"
+  },
+  {
+    "id": 179,
+    "name": "Khalamari",
+    "nameFr": "Khalamar",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Khalamari.png"
+  },
+  {
+    "id": 180,
+    "name": "Nimzo",
+    "nameFr": "Nimzo",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Nimzo.png"
+  },
+  {
+    "id": 181,
+    "name": "Mumboh-jumboe",
+    "nameFr": "Salmigondis",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mumboh-jumboe.png"
+  },
+  {
+    "id": 182,
+    "name": "Malroth",
+    "nameFr": "Malroth",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Malroth.png"
+  },
+  {
+    "id": 183,
+    "name": "Captain Crow",
+    "nameFr": "Capitaine Crow",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "S",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Captain_Crow.png"
+  },
+  {
+    "id": 184,
+    "name": "Grandpa slime",
+    "nameFr": "Gluancien",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Grandpa_slime.png"
+  },
+  {
+    "id": 185,
+    "name": "Dhoulmagus",
+    "nameFr": "Dhoulmagus",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dhoulmagus.png"
+  },
+  {
+    "id": 186,
+    "name": "Dragonlord",
+    "nameFr": "Lordragon",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dragonlord.png"
+  },
+  {
+    "id": 187,
+    "name": "Ruin",
+    "nameFr": "Ruine",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Ruin.png"
+  },
+  {
+    "id": 188,
+    "name": "Zoma",
+    "nameFr": "Zoma",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Zoma.png"
+  },
+  {
+    "id": 189,
+    "name": "Psaro",
+    "nameFr": "Psaro",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Psaro.png"
+  },
+  {
+    "id": 190,
+    "name": "Leopold",
+    "nameFr": "Léopold",
+    "family": "Beast",
+    "familyFr": "Bêtes",
+    "rank": "X",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Leopold.png"
+  },
+  {
+    "id": 191,
+    "name": "Gem slime",
+    "nameFr": "Gluandor",
+    "family": "Slime",
+    "familyFr": "Gluants",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Gem_slime.png"
+  },
+  {
+    "id": 192,
+    "name": "Estark",
+    "nameFr": "Estark",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Estark.png"
+  },
+  {
+    "id": 193,
+    "name": "Mortamor",
+    "nameFr": "Mortamor",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Mortamor.png"
+  },
+  {
+    "id": 194,
+    "name": "Orgodemir",
+    "nameFr": "Orgodémir",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Orgodemir.png"
+  },
+  {
+    "id": 195,
+    "name": "Empyrea",
+    "nameFr": "Empyréa",
+    "family": "Nature",
+    "familyFr": "Naturels",
+    "rank": "X",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Empyrea.png"
+  },
+  {
+    "id": 196,
+    "name": "Rhapthorne",
+    "nameFr": "Rhapthorne",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Rhapthorne.png"
+  },
+  {
+    "id": 197,
+    "name": "Rhapthorne (II)",
+    "nameFr": "Rhapthorne",
+    "family": "Demon",
+    "familyFr": "Démons",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Rhapthorne_%28II%29.png"
+  },
+  {
+    "id": 198,
+    "name": "Dr. Snapped",
+    "nameFr": "Dr Rebelote",
+    "family": "Undead",
+    "familyFr": "Morts-vivants",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dr._Snapped.png"
+  },
+  {
+    "id": 199,
+    "name": "Dragovian lord",
+    "nameFr": "Seigneur dragovien",
+    "family": "Dragon",
+    "familyFr": "Dragons",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Dragovian_lord.png"
+  },
+  {
+    "id": 200,
+    "name": "Trode",
+    "nameFr": "Trode",
+    "family": "Material",
+    "familyFr": "Matières",
+    "rank": "X",
+    "wild": true,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Trode.png"
+  },
+  {
+    "id": 201,
+    "name": "Wulfspade",
+    "nameFr": "Apik",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wulfspade.png"
+  },
+  {
+    "id": 202,
+    "name": "Hawkhart",
+    "nameFr": "Akœur",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Hawkhart.png"
+  },
+  {
+    "id": 203,
+    "name": "Cluboon",
+    "nameFr": "Atrèfle",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Cluboon.png"
+  },
+  {
+    "id": 204,
+    "name": "Diamagon",
+    "nameFr": "Akaro",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "S",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Diamagon.png"
+  },
+  {
+    "id": 205,
+    "name": "Wulfspade ace",
+    "nameFr": "Atoupik",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wulfspade_ace.png"
+  },
+  {
+    "id": 206,
+    "name": "Hawkhart ace",
+    "nameFr": "Atoukœur",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Hawkhart_ace.png"
+  },
+  {
+    "id": 207,
+    "name": "Cluboon ace",
+    "nameFr": "Atoutrèfle",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Cluboon_ace.png"
+  },
+  {
+    "id": 208,
+    "name": "Diamagon ace",
+    "nameFr": "Atoukaro",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Diamagon_ace.png"
+  },
+  {
+    "id": 209,
+    "name": "Ace of Spades",
+    "nameFr": "As de pique",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Ace_of_Spades.png"
+  },
+  {
+    "id": 210,
+    "name": "Wildcard",
+    "nameFr": "Joker",
+    "family": "Incarni",
+    "familyFr": "Incarni",
+    "rank": "X",
+    "wild": false,
+    "sprite": "https://dqmj.fandom.com/wiki/Special:FilePath/Wildcard.png"
+  }
+]
